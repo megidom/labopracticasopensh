@@ -1,0 +1,2 @@
+# labopracticasopensh
+# fichero de readme
